@@ -118,3 +118,8 @@ GitHub: [@neethureddych](https://github.com/neethureddych)
 ## License
 
 This project is available for educational and learning purposes.
+
+
+## App Screenshot
+
+![Attendance Tracker Dashboard](attendancetracker.png)
